@@ -13,6 +13,8 @@ public class practica19 {
 		 * según corresponda.
 		 */
 
+		System.out.println("Hola");
+		
 	}
 
 }
